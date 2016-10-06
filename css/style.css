@@ -3,8 +3,8 @@ header {
 	text-align: center;
 	background-color: #febd17;
 	padding: 5px 15px 0 15px;
-	height: 90px; /* altura???? */
-	color: #fff; /*color de la fuente  */
+	height: 100px; /* altura???? */
+	color: #f6f3e7; /*color de la fuente  */
 }
 
 #wrapper {
@@ -27,13 +27,13 @@ h1 {
 
 nav {
 	float: left;
-	background-color: #689b9e;
+	background-color: #99582a;
 	width: 160px;
 	height: 750px;
 }
 #nav_enviado {
 	float: left;
-	background-color: #689b9e;
+	background-color: #99582a;
 	width: 160px;
 	height: 300px;
 }
@@ -45,24 +45,24 @@ nav ul {
 
 nav ul li a {
 	text-decoration: none;
-	color: #fff;
+	color: #ffe6a7;
 	line-height: 1.8em;
 }
 
 nav ul li a:hover {
 	/*text-decoration: underline;  */
-	color: #33332e;
+	color: #432818;
 }
 
 #principal {
-	background-color: #e4fde1;
+	background-color: #ffe6a7;
 	float: left;
 	width: 680px;
 	padding: 0 10px 0 10px;
 	height: 750px;
 }
 #principal_enviado {
-	background-color: #e4fde1;
+	background-color: #ffe6a7;
 	float: left;
 	width: 680px;
 	padding: 0 10px 0 10px;
@@ -72,7 +72,7 @@ nav ul li a:hover {
 footer {
 	clear: left;
 	width: 850px;
-	background-color: #497a7a;
+	background-color: #febd17;
 	height: 50px;
 	padding: 5px 0 0 10px;
 	text-align: center;
@@ -85,7 +85,7 @@ footer {
 footer p {
 	font-size: 12px;
 	line-height: 0.8em;
-	color: #fff;
+	color: #c8bebc;
 }
 
 .centrar {
