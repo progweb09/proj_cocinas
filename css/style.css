@@ -10,9 +10,8 @@ header {
 #wrapper {
 	margin: 0px auto;
 	border: 1px solid #c3c3c3;
-	width: 860px;
-	padding: 40px;
-	width: 860px;
+	padding: 20px;
+	width: 1200px;
 } /*  fecha de modificacion 21-4*/
 body {
 	font-family: verdana, arial, sans-serif;
@@ -25,17 +24,17 @@ h1 {
 	
 }
 
-nav {
+#derecha {
 	float: left;
 	background-color: #99582a;
 	width: 160px;
 	height: 750px;
 }
-#nav_enviado {
-	float: left;
+#izquierda {
+	float: right;
 	background-color: #99582a;
 	width: 160px;
-	height: 300px;
+	height: 750px;
 }
 
 nav ul {
@@ -57,24 +56,24 @@ nav ul li a:hover {
 #principal {
 	background-color: #ffe6a7;
 	float: left;
-	width: 680px;
+	width: 860px;
 	padding: 0 10px 0 10px;
 	height: 750px;
 }
 #principal_enviado {
 	background-color: #ffe6a7;
 	float: left;
-	width: 680px;
+	width: 860px;
 	padding: 0 10px 0 10px;
 	height: 750px;
 }
 
 footer {
 	clear: left;
-	width: 850px;
+	width: 1200px;
 	background-color: #febd17;
 	height: 50px;
-	padding: 5px 0 0 10px;
+	padding: 5px 0 0 5px;
 	text-align: center;
 }
 
