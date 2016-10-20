@@ -5,6 +5,7 @@ header {
 	padding: 5px 15px 0 15px;
 	height: 100px; /* altura???? */
 	color: #f6f3e7; /*color de la fuente  */
+
 }
 
 #wrapper {
@@ -70,7 +71,7 @@ nav ul li a:hover {
 
 footer {
 	clear: left;
-	width: 1200px;
+	width: 1195px;
 	background-color: #febd17;
 	height: 50px;
 	padding: 5px 0 0 5px;
@@ -86,7 +87,7 @@ footer p {
 	line-height: 0.8em;
 	color: #c8bebc;
 }
-
+.logos {max-width: 50%;}
 .centrar {
 	display: block;
 	text-align: center;
